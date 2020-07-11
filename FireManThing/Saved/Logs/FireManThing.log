@@ -1248,3 +1248,519 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.11-07.33.56:780][539]LogSlate: Window 'About Unreal Editor' being destroyed
 [2020.07.11-07.34.08:453][800]SourceControl: Source control is disabled
 [2020.07.11-07.34.08:454][800]LogSlate: Window 'Source Control Login' being destroyed
+[2020.07.11-07.36.07:794][801]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.07.11-07.36.08:009][801]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonExampleMapF1DDF9C243104AC87336F79E0AE17C40.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.11-07.36.50:226][634]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.11-07.36.51:944][786]LogSlate: Window 'HazmatCharacter' being destroyed
+[2020.07.11-07.36.51:965][786]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-07.36.54:577][ 52]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2020.07.11-07.37.43:026][747]BlueprintLog: New page: Compile FirstPersonProjectile
+[2020.07.11-07.37.43:246][747]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.07.11-07.37.43:614][775]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonProjectile13D4365D4C2C5F835DBA2EB0E9423500.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2020.07.11-07.37.45:199][952]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-07.37.45:217][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-07.37.45:217][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-07.37.45:217][952]PIE: New page: PIE session: FirstPersonExampleMap (11 Jul 2020 09:37:45)
+[2020.07.11-07.37.45:217][952]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.11-07.37.45:232][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014425s)
+[2020.07.11-07.37.45:233][952]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.11-07.37.45:233][952]LogPlayLevel: PIE: World Init took: (0.001308s)
+[2020.07.11-07.37.45:233][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015961s)
+[2020.07.11-07.37.45:272][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.07.11-07.37.45:284][952]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.11-07.37.45:308][952]LogInit: FAudioDevice initialized.
+[2020.07.11-07.37.45:316][952]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-07.37.45:319][952]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.11-08.37.45
+[2020.07.11-07.37.45:320][952]LogWorld: Bringing up level for play took: 0.003391
+[2020.07.11-07.37.45:320][952]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.07.11-07.37.45:323][952]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.003
+[2020.07.11-07.37.45:323][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-07.38.03:294][ 60]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-07.38.03:295][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-07.38.03:295][ 60]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.11-07.38.03:295][ 60]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-07.38.03:301][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-07.38.03:301][ 60]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-07.38.03:345][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-07.38.03:351][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.07.11-07.38.03:398][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.07.11-07.38.05:858][225]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.11-07.45.53:045][326]BlueprintLog: New page: Compile FirstPersonProjectile
+[2020.07.11-07.45.53:268][326]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.07.11-07.45.53:663][353]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonProjectile472D05F3408E1A42703625A83CE0A707.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2020.07.11-07.45.57:358][705]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2020.07.11-07.45.57:363][705]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-07.46.05:856][699]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.11-07.46.17:007][977]Cmd: ACTOR HIDE SELECTED
+[2020.07.11-07.46.20:960][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.11-07.46.27:851][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.11-07.46.55:962][545]Cmd: SELECT NONE
+[2020.07.11-07.47.48:290][991]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.07.11-07.47.48:290][991]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.043
+[2020.07.11-07.47.48:292][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/HazmatCharacter] ([1] browsable assets)...
+[2020.07.11-07.47.48:305][991]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/HazmatCharacter.HazmatCharacter]
+[2020.07.11-07.47.48:305][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/HazmatCharacter]
+[2020.07.11-07.47.48:345][991]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/HazmatCharacter_Auto42213F19745483F3BB188BD99826D6BA4.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Autosaves/Game/FirstPersonBP/Blueprints/HazmatCharacter_Auto4.uasset'
+[2020.07.11-07.47.48:346][991]LogFileHelpers: Auto-saving content packages took 0.055
+[2020.07.11-07.49.04:670][220]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.11-07.49.05:960][323]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-07.49.05:977][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-07.49.05:977][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-07.49.05:977][323]PIE: New page: PIE session: FirstPersonExampleMap (11 Jul 2020 09:49:05)
+[2020.07.11-07.49.05:977][323]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.11-07.49.05:995][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017565s)
+[2020.07.11-07.49.05:996][323]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.11-07.49.05:996][323]LogPlayLevel: PIE: World Init took: (0.001555s)
+[2020.07.11-07.49.05:996][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019288s)
+[2020.07.11-07.49.06:042][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.07.11-07.49.06:059][323]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.11-07.49.06:088][323]LogInit: FAudioDevice initialized.
+[2020.07.11-07.49.06:096][323]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-07.49.06:099][323]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.11-08.49.06
+[2020.07.11-07.49.06:100][323]LogWorld: Bringing up level for play took: 0.003216
+[2020.07.11-07.49.06:100][323]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.07.11-07.49.06:102][323]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.776
+[2020.07.11-07.49.06:102][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-07.50.08:941][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-07.50.08:941][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-07.50.08:941][817]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.11-07.50.08:941][817]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-07.50.08:954][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-07.50.08:955][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-07.50.08:996][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-07.50.09:001][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.07.11-07.50.09:047][819]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.07.11-07.50.09:733][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.11-07.50.09:800][909]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-07.50.09:815][909]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-07.50.09:815][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-07.50.09:816][909]PIE: New page: PIE session: FirstPersonExampleMap (11 Jul 2020 09:50:09)
+[2020.07.11-07.50.09:816][909]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.11-07.50.09:830][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014076s)
+[2020.07.11-07.50.09:831][909]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.11-07.50.09:831][909]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2020.07.11-07.50.09:831][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015453s)
+[2020.07.11-07.50.09:868][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.07.11-07.50.09:880][909]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.11-07.50.09:905][909]LogInit: FAudioDevice initialized.
+[2020.07.11-07.50.09:914][909]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-07.50.09:917][909]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.11-08.50.09
+[2020.07.11-07.50.09:918][909]LogWorld: Bringing up level for play took: 0.003383
+[2020.07.11-07.50.09:918][909]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.07.11-07.50.09:922][909]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.596
+[2020.07.11-07.50.09:922][909]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-07.52.39:722][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-07.52.39:722][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-07.52.39:722][107]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.11-07.52.39:723][107]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-07.52.39:739][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-07.52.39:739][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-07.52.39:780][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-07.52.39:794][107]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.07.11-07.52.39:840][109]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.07.11-07.53.13:490][146]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.11-07.53.41:984][316]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FireBP.FireBP
+[2020.07.11-07.56.54:329][518]LogSlate: Took 0.013259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.07.11-07.57.49:910][909]BlueprintLog: New page: Compile FireBP
+[2020.07.11-07.57.50:138][909]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.07.11-07.58.06:423][454]BlueprintLog: New page: Compile FireBP
+[2020.07.11-07.58.06:640][454]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.07.11-08.02.07:205][769]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.07.11-08.02.07:433][769]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonExampleMap_Auto5540B2B134BE60A93A3A457B36EF4F95A.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2020.07.11-08.02.07:437][769]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.271
+[2020.07.11-08.02.07:437][769]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.271
+[2020.07.11-08.02.07:439][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonProjectile] ([1] browsable assets)...
+[2020.07.11-08.02.07:439][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonProjectile]
+[2020.07.11-08.02.07:471][769]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonProjectile_Auto5D044619242E52E6256EE67AD69A1FB33.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonProjectile_Auto5.uasset'
+[2020.07.11-08.02.07:473][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FireBP] ([1] browsable assets)...
+[2020.07.11-08.02.07:483][769]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FireBP.FireBP]
+[2020.07.11-08.02.07:483][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FireBP]
+[2020.07.11-08.02.07:527][769]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FireBP_Auto545AE3EE64A7059CD63C6B19CF60E7667.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FireBP_Auto5.uasset'
+[2020.07.11-08.02.07:528][769]LogFileHelpers: Auto-saving content packages took 0.090
+[2020.07.11-08.04.24:971][666]LogEditorTransaction: Undo Break Pin Link
+[2020.07.11-08.04.25:179][677]LogEditorTransaction: Undo Move Node
+[2020.07.11-08.04.25:361][685]LogEditorTransaction: Undo Change Bool Pin Value
+[2020.07.11-08.04.25:565][697]LogEditorTransaction: Undo Create Pin Link
+[2020.07.11-08.04.25:763][710]LogEditorTransaction: Undo Move Node
+[2020.07.11-08.04.25:940][720]LogEditorTransaction: Undo Paste clipboard contents
+[2020.07.11-08.04.26:137][731]LogEditorTransaction: Undo Change Bool Pin Value
+[2020.07.11-08.04.26:324][742]LogEditorTransaction: Undo Move Node
+[2020.07.11-08.04.26:546][755]LogEditorTransaction: Undo Create Pin Link
+[2020.07.11-08.04.26:819][773]LogEditorTransaction: Undo Add Node
+[2020.07.11-08.15.32:649][770]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.11-08.16.03:245][163]BlueprintLog: New page: Compile FireBP
+[2020.07.11-08.16.03:500][163]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.07.11-08.18.58:952][ 91]BlueprintLog: New page: Compile FireBP
+[2020.07.11-08.18.59:192][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.07.11-08.19.00:844][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FireBP" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FireBP.uasset" SILENT=true
+[2020.07.11-08.19.00:896][222]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FireBPB0149449445D92BF5355F084E98B638E.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FireBP.uasset'
+[2020.07.11-08.19.04:290][506]BlueprintLog: New page: Compile FireBP
+[2020.07.11-08.19.04:521][506]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.07.11-08.19.06:140][659]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-08.19.06:157][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-08.19.06:157][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-08.19.06:157][659]PIE: New page: PIE session: FirstPersonExampleMap (11 Jul 2020 10:19:06)
+[2020.07.11-08.19.06:157][659]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.11-08.19.06:173][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015119s)
+[2020.07.11-08.19.06:174][659]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.11-08.19.06:174][659]LogPlayLevel: PIE: World Init took: (0.001746s)
+[2020.07.11-08.19.06:175][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017109s)
+[2020.07.11-08.19.06:216][659]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.07.11-08.19.06:233][659]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.11-08.19.06:259][659]LogInit: FAudioDevice initialized.
+[2020.07.11-08.19.06:266][659]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-08.19.06:269][659]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.11-09.19.06
+[2020.07.11-08.19.06:270][659]LogWorld: Bringing up level for play took: 0.003644
+[2020.07.11-08.19.06:271][659]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.07.11-08.19.06:274][659]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.948
+[2020.07.11-08.19.06:274][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-08.19.11:444][263]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-08.19.11:444][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-08.19.11:445][263]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.11-08.19.11:445][263]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-08.19.11:459][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-08.19.11:459][263]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-08.19.11:504][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-08.19.11:509][263]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.07.11-08.19.11:556][265]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.07.11-08.19.15:255][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.11-08.20.35:285][515]BlueprintLog: New page: Compile FireBP
+[2020.07.11-08.20.35:525][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.07.11-08.20.58:628][366]BlueprintLog: New page: Compile FireBP
+[2020.07.11-08.20.58:867][366]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.07.11-08.20.59:590][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FireBP" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FireBP.uasset" SILENT=true
+[2020.07.11-08.20.59:634][419]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FireBPF45159E64034553A6B180887D188F7C6.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FireBP.uasset'
+[2020.07.11-08.21.05:623][934]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-08.21.05:640][934]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-08.21.05:641][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-08.21.05:641][934]PIE: New page: PIE session: FirstPersonExampleMap (11 Jul 2020 10:21:05)
+[2020.07.11-08.21.05:641][934]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.11-08.21.05:655][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014371s)
+[2020.07.11-08.21.05:656][934]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.11-08.21.05:657][934]LogPlayLevel: PIE: World Init took: (0.001501s)
+[2020.07.11-08.21.05:657][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016051s)
+[2020.07.11-08.21.05:703][934]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.07.11-08.21.05:718][934]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.11-08.21.05:746][934]LogInit: FAudioDevice initialized.
+[2020.07.11-08.21.05:753][934]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-08.21.05:756][934]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.11-09.21.05
+[2020.07.11-08.21.05:757][934]LogWorld: Bringing up level for play took: 0.003395
+[2020.07.11-08.21.05:757][934]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.07.11-08.21.05:760][934]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.433
+[2020.07.11-08.21.05:760][934]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-08.21.41:770][145]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_3
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B6
+[2020.07.11-08.21.41:770][145]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:770][145]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_3
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:770][145]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:770][145]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_3
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:770][145]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:780][146]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_4
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B6
+[2020.07.11-08.21.41:780][146]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:780][146]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_4
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:781][146]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:781][146]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_4
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:781][146]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:811][149]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_5
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B6
+[2020.07.11-08.21.41:811][149]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:811][149]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_5
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:812][149]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:812][149]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_5
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:812][149]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:834][151]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_6
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B6
+[2020.07.11-08.21.41:834][151]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:834][151]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_6
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:835][151]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:835][151]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_6
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:835][151]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:852][153]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_7
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B6
+[2020.07.11-08.21.41:852][153]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:852][153]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_7
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:852][153]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:852][153]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_7
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:852][153]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:873][155]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_8
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B6
+[2020.07.11-08.21.41:873][155]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:873][155]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_8
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:873][155]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:873][155]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_8
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:873][155]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:901][158]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B6
+[2020.07.11-08.21.41:901][158]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:901][158]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:901][158]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:901][158]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:901][158]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:923][160]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_10
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B6
+[2020.07.11-08.21.41:923][160]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:923][160]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_10
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:923][160]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:923][160]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_10
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:923][160]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:951][163]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_11
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B6
+[2020.07.11-08.21.41:951][163]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:951][163]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:951][163]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_11
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:951][163]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:992][167]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:992][167]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.41:992][167]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_12
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.41:992][167]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:401][206]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:401][206]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:401][206]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_24
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:401][206]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:421][208]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:422][208]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:422][208]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_25
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:422][208]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:444][210]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:444][210]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:444][210]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_26
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:444][210]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:476][213]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:477][213]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:477][213]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_27
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:477][213]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:507][216]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:507][216]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:507][216]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_28
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:507][216]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:538][219]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:538][219]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:538][219]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_29
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:538][219]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:577][223]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:578][223]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:578][223]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_30
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:578][223]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:611][226]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:611][226]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:611][226]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_31
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:611][226]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:655][230]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:655][230]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:655][230]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_32
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:655][230]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:693][234]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:694][234]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:694][234]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_33
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:694][234]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:715][236]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:715][236]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:715][236]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_34
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:715][236]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:746][239]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:746][239]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:746][239]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_35
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:746][239]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:776][242]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:776][242]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:776][242]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_36
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:776][242]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:806][245]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:806][245]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:806][245]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_37
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:806][245]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:825][247]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:826][247]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:826][247]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_38
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:826][247]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:906][254]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:906][254]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.42:906][254]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_40
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.42:906][254]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:032][266]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:032][266]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:032][266]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_44
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.43:032][266]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:075][270]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:075][270]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:075][270]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_45
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.43:075][270]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:105][273]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:105][273]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:105][273]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_46
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.43:105][273]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:124][275]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:124][275]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:124][275]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_47
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.43:124][275]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:157][278]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:157][278]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:158][278]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_48
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.43:158][278]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:198][282]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:199][282]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:199][282]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_49
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.43:199][282]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:219][284]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:219][284]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.43:219][284]LogScript: Warning: Attempted to assign to None
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_50
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00E5
+[2020.07.11-08.21.43:219][284]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Set FireStrength
+[2020.07.11-08.21.50:605][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-08.21.50:606][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-08.21.50:606][894]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.11-08.21.50:606][894]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-08.21.50:634][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-08.21.50:634][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-08.21.50:683][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-08.21.50:689][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.07.11-08.21.50:700][894]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.11-08.21.50:762][895]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.07.11-08.22.08:477][704]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2020.07.11-08.22.30:527][201]BlueprintLog: New page: Compile FirstPersonProjectile
+[2020.07.11-08.22.30:763][201]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.07.11-08.22.31:324][232]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonProjectile4939FC3847B3A6A20BCD7FB2D699C70D.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2020.07.11-08.22.54:359][573]LogSlate: Window 'Message Log' being destroyed
+[2020.07.11-08.22.54:363][573]LogSlate: Window 'Message Log' being destroyed
+[2020.07.11-08.22.55:341][681]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.07.11-08.22.55:655][681]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonExampleMapC16C354A4B2700A49400318C83DCD99E.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.11-08.22.59:510][946]BlueprintLog: New page: Compile FirstPersonProjectile
+[2020.07.11-08.22.59:746][946]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.07.11-08.23.00:184][972]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonProjectileD5ADA32349146A0EAA5140BE60282D7E.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2020.07.11-08.24.02:922][465]BlueprintLog: New page: Compile FireBP
+[2020.07.11-08.24.03:168][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.07.11-08.24.05:630][708]BlueprintLog: New page: Compile FireBP
+[2020.07.11-08.24.05:867][708]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.07.11-08.24.20:330][ 76]BlueprintLog: New page: Compile FireBP
+[2020.07.11-08.24.20:567][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.07.11-08.24.21:103][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FireBP" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FireBP.uasset" SILENT=true
+[2020.07.11-08.24.21:164][118]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FireBP46DAD4B047C68268513D5AA7D4637569.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FireBP.uasset'
+[2020.07.11-08.25.18:176][862]BlueprintLog: New page: Compile FirstPersonProjectile
+[2020.07.11-08.25.18:415][862]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.07.11-08.25.21:328][109]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonProjectile4EAC398C4AEA3A56B7E476AC8187A8B3.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2020.07.11-08.25.29:964][856]BlueprintLog: New page: Compile FirstPersonProjectile
+[2020.07.11-08.25.30:201][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.07.11-08.25.32:666][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-08.25.32:686][ 88]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-08.25.32:686][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-08.25.32:687][ 88]PIE: New page: PIE session: FirstPersonExampleMap (11 Jul 2020 10:25:32)
+[2020.07.11-08.25.32:687][ 88]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.11-08.25.32:704][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016739s)
+[2020.07.11-08.25.32:705][ 88]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.11-08.25.32:705][ 88]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2020.07.11-08.25.32:705][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018564s)
+[2020.07.11-08.25.32:758][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.07.11-08.25.32:771][ 88]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.11-08.25.32:797][ 88]LogInit: FAudioDevice initialized.
+[2020.07.11-08.25.32:806][ 88]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-08.25.32:809][ 88]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.11-09.25.32
+[2020.07.11-08.25.32:810][ 88]LogWorld: Bringing up level for play took: 0.003621
+[2020.07.11-08.25.32:810][ 88]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.07.11-08.25.32:813][ 88]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.514
+[2020.07.11-08.25.32:813][ 88]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-08.25.40:838][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-08.25.40:838][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-08.25.40:838][ 25]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.11-08.25.40:839][ 25]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-08.25.40:854][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-08.25.40:854][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.07.11-08.25.40:904][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-08.25.40:910][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.07.11-08.25.40:962][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.07.11-08.25.43:419][182]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.11-08.25.48:065][551]BlueprintLog: New page: Compile FirstPersonProjectile
+[2020.07.11-08.25.48:301][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.07.11-08.25.48:704][575]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonProjectileAACD50684F4C089CAB297090B0E0A6F4.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2020.07.11-08.25.50:630][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.07.11-08.25.50:895][750]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonExampleMap91F038424EBE322DFBF596A9521073DA.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'

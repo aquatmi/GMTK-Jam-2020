@@ -1,0 +1,1508 @@
+﻿Log file open, 07/11/20 20:52:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FireManThing
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.792816
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Engine.ini]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Engine.ini]
+[2020.07.11-19.52.06:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Engine.ini]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Engine.ini]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.11-19.52.06:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Engine.ini]
+[2020.07.11-19.52.06:821][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Engine.ini]
+[2020.07.11-19.52.06:826][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:826][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.11-19.52.06:826][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.11-19.52.06:826][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:826][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.11-19.52.06:826][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:826][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.11-19.52.06:826][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.11-19.52.06:826][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.11-19.52.06:826][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.11-19.52.06:826][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.11-19.52.06:826][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.11-19.52.06:826][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.11-19.52.06:826][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.11-19.52.06:826][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.11-19.52.06:827][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.11-19.52.06:828][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.11-19.52.06:828][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.11-19.52.06:828][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.11-19.52.06:828][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:828][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.11-19.52.06:828][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.11-19.52.06:828][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.11-19.52.06:828][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.11-19.52.06:869][  0]LogHAL: Display: Platform has ~ 16 GB [17078288384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.11-19.52.06:869][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.11-19.52.06:869][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.11-19.52.06:869][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.11-19.52.06:870][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.11-19.52.06:887][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.11-19.52.06:887][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.11-19.52.06:887][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Config/Windows/Engine.ini]
+[2020.07.11-19.52.06:887][  0]LogInit: Computer: USER-PC
+[2020.07.11-19.52.06:887][  0]LogInit: User: User
+[2020.07.11-19.52.06:887][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.11-19.52.06:887][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.11-19.52.06:887][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.07.11-19.52.06:887][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.11-19.52.06:887][  0]LogMemory: Process Physical Memory: 100.64 MB used, 100.64 MB peak
+[2020.07.11-19.52.06:888][  0]LogMemory: Process Virtual Memory: 100.16 MB used, 100.16 MB peak
+[2020.07.11-19.52.06:888][  0]LogMemory: Physical Memory: 6841.01 MB used,  9446.11 MB free, 16287.13 MB total
+[2020.07.11-19.52.06:888][  0]LogMemory: Virtual Memory: 4655.59 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.07.11-19.52.06:895][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.11-19.52.07:816][  0]LogInit: Using OS detected language (en-GB).
+[2020.07.11-19.52.07:816][  0]LogInit: Using OS detected locale (en-GB).
+[2020.07.11-19.52.07:818][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.07.11-19.52.08:815][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.11-19.52.09:184][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.11-19.52.09:184][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.11-19.52.19:497][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.11-19.52.19:497][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.11-19.52.19:609][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.07.11-19.52.19:609][  0]LogD3D11RHI:       8079/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.07.11-19.52.19:616][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.11-19.52.19:616][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.11-19.52.19:616][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.11-19.52.19:628][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.11-19.52.19:628][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.11-19.52.19:629][  0]LogWindows: EnumDisplayDevices:
+[2020.07.11-19.52.19:629][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.07.11-19.52.19:629][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.07.11-19.52.19:630][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.07.11-19.52.19:630][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.07.11-19.52.19:631][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.07.11-19.52.19:631][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.07.11-19.52.19:631][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2020.07.11-19.52.19:631][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.07.11-19.52.19:631][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.07.11-19.52.19:696][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.11-19.52.19:733][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.11-19.52.21:210][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.07.11-19.52.21:264][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.07.11-19.52.21:302][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.07.11-19.52.21:361][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.07.11-19.52.21:455][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.07.11-19.52.21:521][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.07.11-19.52.21:663][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.11-19.52.21:793][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.07.11-19.52.21:843][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.07.11-19.52.21:981][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.07.11-19.52.22:024][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.07.11-19.52.22:333][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.07.11-19.52.22:333][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.07.11-19.52.22:399][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.07.11-19.52.22:399][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.07.11-19.52.22:573][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.07.11-19.52.22:611][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.11-19.52.22:646][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.07.11-19.52.22:776][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.07.11-19.52.22:854][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.07.11-19.52.22:854][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.07.11-19.52.22:854][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.11-19.52.23:349][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.11-19.52.24:883][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (D:/Projects/Game/GMTK-Jam-2020/FireManThing/Intermediate/Shaders/WorkingDirectory/9136/).
+[2020.07.11-19.52.24:883][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User.USER-PC/AppData/Local/Temp/UnrealShaderWorkingDir/075A4B37469BF6E26CC1338147D597B3/'.
+[2020.07.11-19.52.24:921][  0]LogXGEController: Cleaning working directory: C:/Users/User.USER-PC/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.07.11-19.52.24:921][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.11-19.52.24:921][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.11-19.52.24:921][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.11-19.52.34:830][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.11-19.52.35:040][  0]LogDerivedDataCache: Loaded boot cache 0.21s 73MB C:/Users/User.USER-PC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.07.11-19.52.35:041][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User.USER-PC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.07.11-19.52.35:041][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Projects/Game/GMTK-Jam-2020/FireManThing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.11-19.52.35:041][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.11-19.52.35:041][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Projects/Game/GMTK-Jam-2020/FireManThing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.11-19.52.35:041][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.11-19.52.35:118][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.11-19.52.35:119][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.11-19.52.35:119][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.11-19.52.35:120][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User.USER-PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.11-19.52.35:120][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.11-19.52.35:120][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.11-19.52.35:144][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.11-19.52.35:146][  0]LogSlate: Using FreeType 2.6.0
+[2020.07.11-19.52.35:213][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.11-19.52.37:062][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2020.07.11-19.52.37:514][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.11-19.52.40:112][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.11-19.52.40:112][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.11-19.52.40:112][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.11-19.52.40:112][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.11-19.52.40:127][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.11-19.52.40:337][  0]LogNetVersion: FireManThing 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 4084818342)
+[2020.07.11-19.52.44:714][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.084778 seconds
+[2020.07.11-19.52.44:721][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.07.11-19.52.44:721][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.07.11-19.52.44:721][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.11-19.52.58:780][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.11-19.52.58:823][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.11-19.52.59:669][  0]SourceControl: Source control is disabled
+[2020.07.11-19.52.59:680][  0]SourceControl: Source control is disabled
+[2020.07.11-19.52.59:795][  0]SourceControl: Source control is disabled
+[2020.07.11-19.52.59:822][  0]SourceControl: Source control is disabled
+[2020.07.11-19.53.02:166][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.11-19.53.03:524][  0]LogOcInput: OculusInput pre-init called
+[2020.07.11-19.53.03:614][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.11-19.53.03:614][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.11-19.53.04:082][  0]LogEngine: Initializing Engine...
+[2020.07.11-19.53.04:083][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.11-19.53.04:121][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.037 s
+[2020.07.11-19.53.05:392][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.11-19.53.05:528][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.11-19.53.05:573][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.11-19.53.05:622][  0]LogInit: FAudioDevice initialized.
+[2020.07.11-19.53.05:622][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.11-19.53.05:704][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/User.USER-PC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.07.11-19.53.05:714][  0]LogInit: Texture streaming: Enabled
+[2020.07.11-19.53.05:884][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.11-19.53.05:885][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.11-19.53.05:887][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.11-19.53.06:104][  0]LogInit: Transaction tracking system initialized
+[2020.07.11-19.53.06:468][  0]BlueprintLog: New page: Editor Load
+[2020.07.11-19.53.07:961][  0]LocalizationService: Localization service is disabled
+[2020.07.11-19.53.11:356][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.11-19.53.11:357][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.11-19.53.13:019][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/' took 0.02s
+[2020.07.11-19.53.15:458][  0]SourceControl: Source control is disabled
+[2020.07.11-19.53.15:458][  0]Cmd: MAP LOAD FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.11-19.53.15:458][  0]LightingResults: New page: Lighting Build
+[2020.07.11-19.53.15:480][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.53.15:480][  0]MapCheck: New page: Map Check
+[2020.07.11-19.53.15:480][  0]LightingResults: New page: Lighting Build
+[2020.07.11-19.53.15:572][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.07.11-19.53.28:906][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.11-19.53.28:981][  0]LogBlueprintUserMessages: [FireBP8] Fire Spawned
+[2020.07.11-19.53.29:104][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-19.53.29:794][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.07.11-19.53.29:795][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-19.53.29:795][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2020.07.11-19.53.29:795][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 14.338
+[2020.07.11-19.53.31:543][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-19.53.31:557][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-19.53.31:574][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-19.53.31:588][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-19.53.31:727][  0]LogCollectionManager: Loaded 0 collections in 0.001664 seconds
+[2020.07.11-19.53.31:856][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Collections/' took 0.01s
+[2020.07.11-19.53.31:856][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/Developers/User/Collections/' took 0.00s
+[2020.07.11-19.53.31:856][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/Collections/' took 0.00s
+[2020.07.11-19.53.31:856][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.07.11-19.53.31:889][  0]LogContentBrowser: Native class hierarchy populated in 0.0308 seconds. Added 2863 classes and 680 folders.
+[2020.07.11-19.53.32:077][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.11-19.53.33:493][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.11-19.53.33:575][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.07.11-19.53.33:765][  0]LogSlate: Took 0.017916 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.11-19.53.33:776][  0]LogSlate: Took 0.009005 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.11-19.53.33:805][  0]LogSlate: Took 0.023855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.11-19.53.34:152][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.07.11-19.53.34:545][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.11-19.53.34:546][  0]LogLoad: (Engine Initialization) Total time: 107.69 seconds
+[2020.07.11-19.53.34:546][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.11-19.53.34:690][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.11-19.53.37:954][ 32]LogSlate: Took 0.040160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.11-19.53.40:212][ 52]LogAssetRegistry: Asset discovery search completed in 63.1504 seconds
+[2020.07.11-19.53.40:361][ 52]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.010032 seconds (found 0 objects)
+[2020.07.11-19.53.40:361][ 52]LogCollectionManager: Fixed up redirectors for 0 collections in 0.010108 seconds (updated 0 objects)
+[2020.07.11-19.53.42:124][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.11-19.53.45:278][468]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.11-19.53.45:729][468]LogAIModule: Creating AISystem for world Base-map
+[2020.07.11-19.53.45:769][468]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Base-map.Base-map
+[2020.07.11-19.53.45:853][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.07.11-19.53.45:854][468]Cmd: MAP LOAD FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Maps/Base-map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.11-19.53.45:854][468]LightingResults: New page: Lighting Build
+[2020.07.11-19.53.45:855][468]LoadErrors: New page: Loading map: Base-map.umap
+[2020.07.11-19.53.45:856][468]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.53.45:908][468]MapCheck: New page: Map Check
+[2020.07.11-19.53.45:908][468]LightingResults: New page: Lighting Build
+[2020.07.11-19.53.45:938][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.07.11-19.53.45:960][468]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-19.53.45:992][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.07.11-19.53.46:029][468]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-19.53.46:029][468]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2020.07.11-19.53.46:029][468]LogFileHelpers: Loading map 'Base-map' took 0.175
+[2020.07.11-19.53.52:301][927]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2020.07.11-19.53.53:070][927]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.07.11-19.54.03:235][630]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2020.07.11-19.54.03:294][630]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.54.03:412][630]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2020.07.11-19.54.04:024][630]LogSlate: Took 0.066755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.11-19.54.29:227][589]BlueprintLog: New page: Compile FirstPersonGameMode
+[2020.07.11-19.54.29:875][589]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.07.11-19.54.30:402][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonGameMode" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" SILENT=true
+[2020.07.11-19.54.30:510][619]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonGameModeB4CCECA14F10BB4FB286D0BBECB882B2.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2020.07.11-19.54.34:558][909]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/ReactorHub.ReactorHub
+[2020.07.11-19.54.35:367][910]LogSlate: Took 0.038206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.11-19.56.35:664][471]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A03285DD-46FC-BAC8-78CC-D0934AD8544E}
+[2020.07.11-19.57.59:450][573]BlueprintLog: New page: Compile ReactorHub
+[2020.07.11-19.57.59:736][573]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.07.11-19.58.30:465][937]BlueprintLog: New page: Compile ReactorHub
+[2020.07.11-19.58.30:717][937]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.07.11-19.58.31:189][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ReactorHub" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/ReactorHub.uasset" SILENT=true
+[2020.07.11-19.58.31:468][968]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/ReactorHubD950D1F3415E46D36B1847B2F48AE64A.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/ReactorHub.uasset'
+[2020.07.11-19.58.38:638][462]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.58.40:791][593]LogSlate: Window 'ReactorHub' being destroyed
+[2020.07.11-19.58.40:797][593]LogSlate: Window 'ReactorHub' being destroyed
+[2020.07.11-19.58.40:811][593]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.11-19.58.40:811][593]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.58.48:663][125]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2020.07.11-19.59.12:419][925]BlueprintLog: New page: Compile FirstPersonGameMode
+[2020.07.11-19.59.12:733][925]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.07.11-19.59.13:146][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonGameMode" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" SILENT=true
+[2020.07.11-19.59.13:189][957]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonGameModeEDF27FAF49D6B1FA1D79EE819B18660D.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2020.07.11-19.59.14:341][ 51]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2020.07.11-19.59.14:345][ 51]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2020.07.11-19.59.14:380][ 51]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-19.59.18:125][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Base-map" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Maps/Base-map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.11-19.59.18:215][388]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.07.11-19.59.18:946][388]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Base-map7B8FD3E144F18C9DA0CD94B28AF5341F.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Maps/Base-map.umap'
+[2020.07.11-19.59.41:030][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plant-Floor)
+[2020.07.11-19.59.42:963][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.11-19.59.47:160][643]Cmd: SELECT NONE
+[2020.07.11-20.02.21:235][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.11-20.02.30:448][170]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.07.11-20.02.31:888][170]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.11-20.02.32:077][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.07.11-20.02.40:092][768]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2020.07.11-20.02.47:188][235]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2020.07.11-20.02.47:193][235]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2020.07.11-20.02.47:193][235]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.05.26:732][115]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/GameOver.GameOver
+[2020.07.11-20.06.33:752][403]BlueprintLog: New page: Compile GameOver
+[2020.07.11-20.06.34:261][403]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.07.11-20.06.34:888][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/GameOver" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/GameOver.uasset" SILENT=true
+[2020.07.11-20.06.34:916][437]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/GameOver6C9B64FD44632CFE3C433DAD17B68606.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/GameOver.uasset'
+[2020.07.11-20.08.22:413][674]LogSlate: Took 0.027884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.07.11-20.09.22:479][341]BlueprintLog: New page: Compile GameOver
+[2020.07.11-20.09.22:582][341]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.07.11-20.09.23:393][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/GameOver" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/GameOver.uasset" SILENT=true
+[2020.07.11-20.09.23:453][400]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/GameOverB1E93A6C423FDD3EA7DD9F948359E769.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/GameOver.uasset'
+[2020.07.11-20.09.36:072][377]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-20.09.36:152][377]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.09.36:188][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-20.09.36:244][377]PIE: New page: PIE session: Base-map (11 Jul 2020 22:09:36)
+[2020.07.11-20.09.36:363][377]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.11-20.09.36:383][377]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map
+[2020.07.11-20.09.36:443][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060528s)
+[2020.07.11-20.09.36:454][377]LogAIModule: Creating AISystem for world Base-map
+[2020.07.11-20.09.36:470][377]LogPlayLevel: PIE: World Init took: (0.026072s)
+[2020.07.11-20.09.36:489][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Base-map.Base-map to /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map.Base-map (0.105923s)
+[2020.07.11-20.09.36:534][377]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.07.11-20.09.36:599][377]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.11-20.09.36:631][377]LogInit: FAudioDevice initialized.
+[2020.07.11-20.09.36:716][377]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-20.09.36:762][377]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map.Base-map up for play (max tick rate 0) at 2020.07.11-21.09.36
+[2020.07.11-20.09.36:847][377]LogWorld: Bringing up level for play took: 0.130463
+[2020.07.11-20.09.36:883][377]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.07.11-20.09.37:153][377]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.07.11-20.09.37:374][377]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map 1.665
+[2020.07.11-20.09.37:374][377]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.09.57:620][309]LogBlueprintUserMessages: [FireBP_C_0] Fire Spawned
+[2020.07.11-20.10.00:576][615]LogBlueprintUserMessages: [FireBP_C_1] Fire Spawned
+[2020.07.11-20.10.03:596][916]LogBlueprintUserMessages: [FireBP_C_2] Fire Spawned
+[2020.07.11-20.10.04:596][ 15]LogBlueprintUserMessages: [FireBP_C_3] Fire Spawned
+[2020.07.11-20.10.07:604][334]LogBlueprintUserMessages: [FireBP_C_4] Fire Spawned
+[2020.07.11-20.10.11:621][743]LogBlueprintUserMessages: [FireBP_C_5] Fire Spawned
+[2020.07.11-20.10.12:628][846]LogBlueprintUserMessages: [FireBP_C_6] Fire Spawned
+[2020.07.11-20.10.14:635][ 45]LogBlueprintUserMessages: [FireBP_C_7] Fire Spawned
+[2020.07.11-20.10.15:643][148]LogBlueprintUserMessages: [FireBP_C_8] Fire Spawned
+[2020.07.11-20.10.15:643][148]LogBlueprintUserMessages: [FireBP_C_9] Fire Spawned
+[2020.07.11-20.10.16:645][241]LogBlueprintUserMessages: [FireBP_C_10] Fire Spawned
+[2020.07.11-20.10.17:656][340]LogBlueprintUserMessages: [FireBP_C_11] Fire Spawned
+[2020.07.11-20.10.17:657][340]LogBlueprintUserMessages: [FireBP_C_12] Fire Spawned
+[2020.07.11-20.10.18:662][435]LogBlueprintUserMessages: [FireBP_C_13] Fire Spawned
+[2020.07.11-20.10.19:663][535]LogBlueprintUserMessages: [FireBP_C_14] Fire Spawned
+[2020.07.11-20.10.21:678][733]LogBlueprintUserMessages: [FireBP_C_15] Fire Spawned
+[2020.07.11-20.10.23:687][939]LogBlueprintUserMessages: [FireBP_C_16] Fire Spawned
+[2020.07.11-20.10.23:688][939]LogBlueprintUserMessages: [FireBP_C_17] Fire Spawned
+[2020.07.11-20.10.24:687][ 35]LogBlueprintUserMessages: [FireBP_C_18] Fire Spawned
+[2020.07.11-20.10.24:688][ 35]LogBlueprintUserMessages: [FireBP_C_19] Fire Spawned
+[2020.07.11-20.10.25:691][132]LogBlueprintUserMessages: [FireBP_C_20] Fire Spawned
+[2020.07.11-20.10.26:693][235]LogBlueprintUserMessages: [FireBP_C_21] Fire Spawned
+[2020.07.11-20.10.27:696][337]LogBlueprintUserMessages: [FireBP_C_22] Fire Spawned
+[2020.07.11-20.10.30:714][648]LogBlueprintUserMessages: [FireBP_C_23] Fire Spawned
+[2020.07.11-20.10.30:714][648]LogBlueprintUserMessages: [FireBP_C_24] Fire Spawned
+[2020.07.11-20.10.32:727][856]LogBlueprintUserMessages: [FireBP_C_25] Fire Spawned
+[2020.07.11-20.10.33:728][958]LogBlueprintUserMessages: [FireBP_C_26] Fire Spawned
+[2020.07.11-20.10.35:735][169]LogBlueprintUserMessages: [FireBP_C_27] Fire Spawned
+[2020.07.11-20.10.36:739][274]LogBlueprintUserMessages: [FireBP_C_28] Fire Spawned
+[2020.07.11-20.10.36:739][274]LogBlueprintUserMessages: [FireBP_C_29] Fire Spawned
+[2020.07.11-20.10.37:742][355]LogBlueprintUserMessages: [FireBP_C_30] Fire Spawned
+[2020.07.11-20.10.38:747][457]LogBlueprintUserMessages: [FireBP_C_31] Fire Spawned
+[2020.07.11-20.10.41:754][769]LogBlueprintUserMessages: [FireBP_C_32] Fire Spawned
+[2020.07.11-20.10.41:755][769]LogBlueprintUserMessages: [FireBP_C_33] Fire Spawned
+[2020.07.11-20.10.42:513][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.10.42:529][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-20.10.42:529][840]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map
+[2020.07.11-20.10.42:548][840]LogWorld: UWorld::CleanupWorld for Base-map, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.10.42:660][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-20.10.42:660][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.10.42:791][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-20.10.42:932][840]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.07.11-20.10.42:962][841]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.07.11-20.10.56:208][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.11-20.10.56:380][726]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2020.07.11-20.11.16:979][325]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.07.11-20.11.30:614][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plant-Floor)
+[2020.07.11-20.11.31:769][338]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.07.11-20.11.40:145][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.11-20.11.40:285][926]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.07.11-20.12.24:912][ 84]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/ReactorIntegrityBar.ReactorIntegrityBar
+[2020.07.11-20.14.03:617][ 83]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.14.03:662][ 83]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.14.07:756][288]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/ReactorHub.ReactorHub
+[2020.07.11-20.14.32:514][613]BlueprintLog: New page: Compile ReactorHub
+[2020.07.11-20.14.32:856][613]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.07.11-20.14.33:160][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ReactorHub" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/ReactorHub.uasset" SILENT=true
+[2020.07.11-20.14.33:223][626]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/ReactorHub1414A2BD4DF5DFDE0ECE279D21906EBE.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/ReactorHub.uasset'
+[2020.07.11-20.15.48:739][762]BlueprintLog: New page: Compile ReactorIntegrityBar
+[2020.07.11-20.15.48:843][762]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.07.11-20.15.49:324][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ReactorIntegrityBar" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/ReactorIntegrityBar.uasset" SILENT=true
+[2020.07.11-20.15.49:407][786]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/ReactorIntegrityBar7DAD111448BE895E0B37ABB60A3E9564.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/ReactorIntegrityBar.uasset'
+[2020.07.11-20.15.52:724][973]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-20.15.52:764][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.15.52:764][973]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.11-20.15.52:774][973]LogPlayLevel: [PlayLevel] Compiling ReactorHub before play...
+[2020.07.11-20.15.52:774][973]LogPlayLevel: [PlayLevel]   Compiling GameOver as a dependent...
+[2020.07.11-20.15.52:774][973]LogPlayLevel: [PlayLevel]   Compiling ReactorIntegrityBar as a dependent...
+[2020.07.11-20.15.53:046][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.07.11-20.15.53:046][973]LogPlayLevel: PlayLevel: Blueprint regeneration took 281 ms (3 blueprints)
+[2020.07.11-20.15.53:046][973]PIE: New page: PIE session: Base-map (11 Jul 2020 22:15:53)
+[2020.07.11-20.15.53:046][973]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map
+[2020.07.11-20.15.53:071][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024688s)
+[2020.07.11-20.15.53:072][973]LogAIModule: Creating AISystem for world Base-map
+[2020.07.11-20.15.53:072][973]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2020.07.11-20.15.53:072][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Base-map.Base-map to /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map.Base-map (0.026217s)
+[2020.07.11-20.15.53:118][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.07.11-20.15.53:129][973]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.11-20.15.53:166][973]LogInit: FAudioDevice initialized.
+[2020.07.11-20.15.53:174][973]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-20.15.53:183][973]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map.Base-map up for play (max tick rate 0) at 2020.07.11-21.15.53
+[2020.07.11-20.15.53:186][973]LogWorld: Bringing up level for play took: 0.010465
+[2020.07.11-20.15.53:186][973]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.07.11-20.15.53:191][973]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map -0.519
+[2020.07.11-20.15.53:191][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.16.09:229][475]LogBlueprintUserMessages: [FireBP_C_0] Fire Spawned
+[2020.07.11-20.16.10:217][478]LogBlueprintUserMessages: [FireBP_C_1] Fire Spawned
+[2020.07.11-20.16.11:223][481]LogBlueprintUserMessages: [FireBP_C_2] Fire Spawned
+[2020.07.11-20.16.15:260][493]LogBlueprintUserMessages: [FireBP_C_3] Fire Spawned
+[2020.07.11-20.16.16:275][496]LogBlueprintUserMessages: [FireBP_C_4] Fire Spawned
+[2020.07.11-20.16.17:278][499]LogBlueprintUserMessages: [FireBP_C_5] Fire Spawned
+[2020.07.11-20.16.18:282][502]LogBlueprintUserMessages: [FireBP_C_6] Fire Spawned
+[2020.07.11-20.16.20:298][508]LogBlueprintUserMessages: [FireBP_C_7] Fire Spawned
+[2020.07.11-20.16.21:305][511]LogBlueprintUserMessages: [FireBP_C_8] Fire Spawned
+[2020.07.11-20.16.22:322][514]LogBlueprintUserMessages: [FireBP_C_9] Fire Spawned
+[2020.07.11-20.16.23:327][517]LogBlueprintUserMessages: [FireBP_C_10] Fire Spawned
+[2020.07.11-20.16.24:334][520]LogBlueprintUserMessages: [FireBP_C_11] Fire Spawned
+[2020.07.11-20.16.25:340][523]LogBlueprintUserMessages: [FireBP_C_12] Fire Spawned
+[2020.07.11-20.16.26:346][526]LogBlueprintUserMessages: [FireBP_C_13] Fire Spawned
+[2020.07.11-20.16.26:347][526]LogBlueprintUserMessages: [FireBP_C_14] Fire Spawned
+[2020.07.11-20.16.27:358][529]LogBlueprintUserMessages: [FireBP_C_15] Fire Spawned
+[2020.07.11-20.16.28:358][532]LogBlueprintUserMessages: [FireBP_C_16] Fire Spawned
+[2020.07.11-20.16.29:365][535]LogBlueprintUserMessages: [FireBP_C_17] Fire Spawned
+[2020.07.11-20.16.32:375][544]LogBlueprintUserMessages: [FireBP_C_18] Fire Spawned
+[2020.07.11-20.16.34:396][550]LogBlueprintUserMessages: [FireBP_C_19] Fire Spawned
+[2020.07.11-20.16.35:156][553]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.11-20.16.35:390][553]LogBlueprintUserMessages: [FireBP_C_20] Fire Spawned
+[2020.07.11-20.16.36:391][642]LogBlueprintUserMessages: [FireBP_C_21] Fire Spawned
+[2020.07.11-20.16.37:401][740]LogBlueprintUserMessages: [FireBP_C_22] Fire Spawned
+[2020.07.11-20.16.38:411][837]LogBlueprintUserMessages: [FireBP_C_23] Fire Spawned
+[2020.07.11-20.16.38:411][837]LogBlueprintUserMessages: [FireBP_C_24] Fire Spawned
+[2020.07.11-20.16.39:423][937]LogBlueprintUserMessages: [FireBP_C_25] Fire Spawned
+[2020.07.11-20.16.39:424][937]LogBlueprintUserMessages: [FireBP_C_26] Fire Spawned
+[2020.07.11-20.16.41:432][127]LogBlueprintUserMessages: [FireBP_C_27] Fire Spawned
+[2020.07.11-20.16.42:434][223]LogBlueprintUserMessages: [FireBP_C_28] Fire Spawned
+[2020.07.11-20.16.42:435][223]LogBlueprintUserMessages: [FireBP_C_29] Fire Spawned
+[2020.07.11-20.16.44:452][416]LogBlueprintUserMessages: [FireBP_C_30] Fire Spawned
+[2020.07.11-20.16.44:453][416]LogBlueprintUserMessages: [FireBP_C_31] Fire Spawned
+[2020.07.11-20.16.45:454][515]LogBlueprintUserMessages: [FireBP_C_32] Fire Spawned
+[2020.07.11-20.16.47:464][707]LogBlueprintUserMessages: [FireBP_C_33] Fire Spawned
+[2020.07.11-20.16.49:478][888]LogBlueprintUserMessages: [FireBP_C_34] Fire Spawned
+[2020.07.11-20.16.51:486][ 68]LogBlueprintUserMessages: [FireBP_C_35] Fire Spawned
+[2020.07.11-20.16.51:487][ 68]LogBlueprintUserMessages: [FireBP_C_36] Fire Spawned
+[2020.07.11-20.16.52:486][159]LogBlueprintUserMessages: [FireBP_C_37] Fire Spawned
+[2020.07.11-20.16.52:486][159]LogBlueprintUserMessages: [FireBP_C_38] Fire Spawned
+[2020.07.11-20.16.53:496][252]LogBlueprintUserMessages: [FireBP_C_39] Fire Spawned
+[2020.07.11-20.16.54:503][348]LogBlueprintUserMessages: [FireBP_C_40] Fire Spawned
+[2020.07.11-20.16.54:503][348]LogBlueprintUserMessages: [FireBP_C_41] Fire Spawned
+[2020.07.11-20.16.55:516][439]LogBlueprintUserMessages: [FireBP_C_42] Fire Spawned
+[2020.07.11-20.16.55:517][439]LogBlueprintUserMessages: [FireBP_C_43] Fire Spawned
+[2020.07.11-20.16.56:518][528]LogBlueprintUserMessages: [FireBP_C_44] Fire Spawned
+[2020.07.11-20.16.57:527][618]LogBlueprintUserMessages: [FireBP_C_45] Fire Spawned
+[2020.07.11-20.16.58:544][711]LogBlueprintUserMessages: [FireBP_C_46] Fire Spawned
+[2020.07.11-20.16.58:544][711]LogBlueprintUserMessages: [FireBP_C_47] Fire Spawned
+[2020.07.11-20.16.59:552][802]LogBlueprintUserMessages: [FireBP_C_48] Fire Spawned
+[2020.07.11-20.16.59:553][802]LogBlueprintUserMessages: [FireBP_C_49] Fire Spawned
+[2020.07.11-20.17.00:561][892]LogBlueprintUserMessages: [FireBP_C_50] Fire Spawned
+[2020.07.11-20.17.00:562][892]LogBlueprintUserMessages: [FireBP_C_51] Fire Spawned
+[2020.07.11-20.17.01:568][982]LogBlueprintUserMessages: [FireBP_C_52] Fire Spawned
+[2020.07.11-20.17.02:576][ 76]LogBlueprintUserMessages: [FireBP_C_53] Fire Spawned
+[2020.07.11-20.17.02:576][ 76]LogBlueprintUserMessages: [FireBP_C_54] Fire Spawned
+[2020.07.11-20.17.03:581][172]LogBlueprintUserMessages: [FireBP_C_55] Fire Spawned
+[2020.07.11-20.17.03:606][172]LogBlueprintUserMessages: [FireBP_C_56] Fire Spawned
+[2020.07.11-20.17.05:590][360]LogBlueprintUserMessages: [FireBP_C_57] Fire Spawned
+[2020.07.11-20.17.05:591][360]LogBlueprintUserMessages: [FireBP_C_58] Fire Spawned
+[2020.07.11-20.17.06:592][452]LogBlueprintUserMessages: [FireBP_C_59] Fire Spawned
+[2020.07.11-20.17.06:593][452]LogBlueprintUserMessages: [FireBP_C_60] Fire Spawned
+[2020.07.11-20.17.07:594][537]LogBlueprintUserMessages: [FireBP_C_61] Fire Spawned
+[2020.07.11-20.17.09:605][716]LogBlueprintUserMessages: [FireBP_C_62] Fire Spawned
+[2020.07.11-20.17.10:608][801]LogBlueprintUserMessages: [FireBP_C_63] Fire Spawned
+[2020.07.11-20.17.10:608][801]LogBlueprintUserMessages: [FireBP_C_64] Fire Spawned
+[2020.07.11-20.17.11:619][891]LogBlueprintUserMessages: [FireBP_C_65] Fire Spawned
+[2020.07.11-20.17.11:619][891]LogBlueprintUserMessages: [FireBP_C_51] Fire Extinguished
+[2020.07.11-20.17.11:837][909]LogBlueprintUserMessages: [FireBP_C_18] Fire Extinguished
+[2020.07.11-20.17.11:861][911]LogBlueprintUserMessages: [FireBP_C_49] Fire Extinguished
+[2020.07.11-20.17.11:917][915]LogBlueprintUserMessages: [FireBP_C_2] Fire Extinguished
+[2020.07.11-20.17.12:005][922]LogBlueprintUserMessages: [FireBP_C_3] Fire Extinguished
+[2020.07.11-20.17.12:005][922]LogBlueprintUserMessages: [FireBP_C_33] Fire Extinguished
+[2020.07.11-20.17.12:624][976]LogBlueprintUserMessages: [FireBP_C_66] Fire Spawned
+[2020.07.11-20.17.12:878][999]LogBlueprintUserMessages: [FireBP_C_17] Fire Extinguished
+[2020.07.11-20.17.12:878][999]LogBlueprintUserMessages: [FireBP_C_44] Fire Extinguished
+[2020.07.11-20.17.12:898][  1]LogBlueprintUserMessages: [FireBP_C_29] Fire Extinguished
+[2020.07.11-20.17.12:964][  5]LogBlueprintUserMessages: [FireBP_C_7] Fire Extinguished
+[2020.07.11-20.17.12:964][  5]LogBlueprintUserMessages: [FireBP_C_47] Fire Extinguished
+[2020.07.11-20.17.13:058][ 13]LogBlueprintUserMessages: [FireBP_C_15] Fire Extinguished
+[2020.07.11-20.17.13:058][ 13]LogBlueprintUserMessages: [FireBP_C_16] Fire Extinguished
+[2020.07.11-20.17.13:058][ 13]LogBlueprintUserMessages: [FireBP_C_34] Fire Extinguished
+[2020.07.11-20.17.13:628][ 62]LogBlueprintUserMessages: [FireBP_C_67] Fire Spawned
+[2020.07.11-20.17.13:800][ 76]LogBlueprintUserMessages: [FireBP_C_32] Fire Extinguished
+[2020.07.11-20.17.13:800][ 76]LogBlueprintUserMessages: [FireBP_C_36] Fire Extinguished
+[2020.07.11-20.17.14:151][106]LogBlueprintUserMessages: [FireBP_C_8] Fire Extinguished
+[2020.07.11-20.17.14:151][106]LogBlueprintUserMessages: [FireBP_C_10] Fire Extinguished
+[2020.07.11-20.17.14:151][106]LogBlueprintUserMessages: [FireBP_C_11] Fire Extinguished
+[2020.07.11-20.17.14:151][106]LogBlueprintUserMessages: [FireBP_C_19] Fire Extinguished
+[2020.07.11-20.17.14:151][106]LogBlueprintUserMessages: [FireBP_C_56] Fire Extinguished
+[2020.07.11-20.17.14:268][116]LogBlueprintUserMessages: [FireBP_C_54] Fire Extinguished
+[2020.07.11-20.17.14:637][149]LogBlueprintUserMessages: [FireBP_C_68] Fire Spawned
+[2020.07.11-20.17.14:919][173]LogBlueprintUserMessages: [FireBP_C_22] Fire Extinguished
+[2020.07.11-20.17.15:647][237]LogBlueprintUserMessages: [FireBP_C_69] Fire Spawned
+[2020.07.11-20.17.17:654][418]LogBlueprintUserMessages: [FireBP_C_70] Fire Spawned
+[2020.07.11-20.17.17:655][418]LogBlueprintUserMessages: [FireBP_C_71] Fire Spawned
+[2020.07.11-20.17.19:667][602]LogBlueprintUserMessages: [FireBP_C_72] Fire Spawned
+[2020.07.11-20.17.20:677][695]LogBlueprintUserMessages: [FireBP_C_73] Fire Spawned
+[2020.07.11-20.17.21:684][789]LogBlueprintUserMessages: [FireBP_C_74] Fire Spawned
+[2020.07.11-20.17.21:684][789]LogBlueprintUserMessages: [FireBP_C_75] Fire Spawned
+[2020.07.11-20.17.22:498][865]LogBlueprintUserMessages: [FireBP_C_23] Fire Extinguished
+[2020.07.11-20.17.22:498][865]LogBlueprintUserMessages: [FireBP_C_52] Fire Extinguished
+[2020.07.11-20.17.22:569][871]LogBlueprintUserMessages: [FireBP_C_57] Fire Extinguished
+[2020.07.11-20.17.22:687][881]LogBlueprintUserMessages: [FireBP_C_76] Fire Spawned
+[2020.07.11-20.17.22:735][885]LogBlueprintUserMessages: [FireBP_C_70] Fire Extinguished
+[2020.07.11-20.17.22:834][893]LogBlueprintUserMessages: [FireBP_C_39] Fire Extinguished
+[2020.07.11-20.17.22:955][903]LogBlueprintUserMessages: [FireBP_C_28] Fire Extinguished
+[2020.07.11-20.17.22:955][903]LogBlueprintUserMessages: [FireBP_C_37] Fire Extinguished
+[2020.07.11-20.17.22:982][905]LogBlueprintUserMessages: [FireBP_C_40] Fire Extinguished
+[2020.07.11-20.17.22:982][905]LogBlueprintUserMessages: [FireBP_C_42] Fire Extinguished
+[2020.07.11-20.17.23:003][907]LogBlueprintUserMessages: [FireBP_C_46] Fire Extinguished
+[2020.07.11-20.17.23:044][910]LogBlueprintUserMessages: [FireBP_C_20] Fire Extinguished
+[2020.07.11-20.17.23:044][910]LogBlueprintUserMessages: [FireBP_C_25] Fire Extinguished
+[2020.07.11-20.17.23:044][910]LogBlueprintUserMessages: [FireBP_C_48] Fire Extinguished
+[2020.07.11-20.17.23:044][910]LogBlueprintUserMessages: [FireBP_C_59] Fire Extinguished
+[2020.07.11-20.17.23:067][912]LogBlueprintUserMessages: [FireBP_C_66] Fire Extinguished
+[2020.07.11-20.17.23:694][969]LogBlueprintUserMessages: [FireBP_C_77] Fire Spawned
+[2020.07.11-20.17.25:706][148]LogBlueprintUserMessages: [FireBP_C_78] Fire Spawned
+[2020.07.11-20.17.26:708][242]LogBlueprintUserMessages: [FireBP_C_79] Fire Spawned
+[2020.07.11-20.17.27:712][332]LogBlueprintUserMessages: [FireBP_C_80] Fire Spawned
+[2020.07.11-20.17.27:713][332]LogBlueprintUserMessages: [FireBP_C_80] Fire Extinguished
+[2020.07.11-20.17.27:828][342]LogBlueprintUserMessages: [FireBP_C_45] Fire Extinguished
+[2020.07.11-20.17.27:902][348]LogBlueprintUserMessages: [FireBP_C_63] Fire Extinguished
+[2020.07.11-20.17.28:377][390]LogBlueprintUserMessages: [FireBP_C_12] Fire Extinguished
+[2020.07.11-20.17.28:377][390]LogBlueprintUserMessages: [FireBP_C_27] Fire Extinguished
+[2020.07.11-20.17.28:718][421]LogBlueprintUserMessages: [FireBP_C_81] Fire Spawned
+[2020.07.11-20.17.28:719][421]LogBlueprintUserMessages: [FireBP_C_82] Fire Spawned
+[2020.07.11-20.17.28:908][437]LogBlueprintUserMessages: [FireBP_C_30] Fire Extinguished
+[2020.07.11-20.17.28:909][437]LogBlueprintUserMessages: [FireBP_C_35] Fire Extinguished
+[2020.07.11-20.17.28:909][437]LogBlueprintUserMessages: [FireBP_C_55] Fire Extinguished
+[2020.07.11-20.17.29:724][507]LogBlueprintUserMessages: [FireBP_C_83] Fire Spawned
+[2020.07.11-20.17.31:727][683]LogBlueprintUserMessages: [FireBP_C_84] Fire Spawned
+[2020.07.11-20.17.32:738][775]LogBlueprintUserMessages: [FireBP_C_85] Fire Spawned
+[2020.07.11-20.17.33:291][823]LogBlueprintUserMessages: [FireBP_C_84] Fire Extinguished
+[2020.07.11-20.17.33:335][827]LogBlueprintUserMessages: [FireBP_C_83] Fire Extinguished
+[2020.07.11-20.17.33:454][837]LogBlueprintUserMessages: [FireBP_C_0] Fire Extinguished
+[2020.07.11-20.17.33:454][837]LogBlueprintUserMessages: [FireBP_C_1] Fire Extinguished
+[2020.07.11-20.17.33:455][837]LogBlueprintUserMessages: [FireBP_C_4] Fire Extinguished
+[2020.07.11-20.17.33:455][837]LogBlueprintUserMessages: [FireBP_C_5] Fire Extinguished
+[2020.07.11-20.17.33:455][837]LogBlueprintUserMessages: [FireBP_C_9] Fire Extinguished
+[2020.07.11-20.17.33:455][837]LogBlueprintUserMessages: [FireBP_C_72] Fire Extinguished
+[2020.07.11-20.17.33:455][837]LogBlueprintUserMessages: [FireBP_C_14] Fire Extinguished
+[2020.07.11-20.17.33:455][837]LogBlueprintUserMessages: [FireBP_C_21] Fire Extinguished
+[2020.07.11-20.17.33:456][837]LogBlueprintUserMessages: [FireBP_C_24] Fire Extinguished
+[2020.07.11-20.17.33:456][837]LogBlueprintUserMessages: [FireBP_C_26] Fire Extinguished
+[2020.07.11-20.17.33:456][837]LogBlueprintUserMessages: [FireBP_C_31] Fire Extinguished
+[2020.07.11-20.17.33:456][837]LogBlueprintUserMessages: [FireBP_C_77] Fire Extinguished
+[2020.07.11-20.17.33:456][837]LogBlueprintUserMessages: [FireBP_C_67] Fire Extinguished
+[2020.07.11-20.17.33:456][837]LogBlueprintUserMessages: [FireBP_C_38] Fire Extinguished
+[2020.07.11-20.17.33:456][837]LogBlueprintUserMessages: [FireBP_C_41] Fire Extinguished
+[2020.07.11-20.17.33:456][837]LogBlueprintUserMessages: [FireBP_C_43] Fire Extinguished
+[2020.07.11-20.17.33:456][837]LogBlueprintUserMessages: [FireBP_C_68] Fire Extinguished
+[2020.07.11-20.17.33:456][837]LogBlueprintUserMessages: [FireBP_C_76] Fire Extinguished
+[2020.07.11-20.17.33:457][837]LogBlueprintUserMessages: [FireBP_C_58] Fire Extinguished
+[2020.07.11-20.17.33:457][837]LogBlueprintUserMessages: [FireBP_C_60] Fire Extinguished
+[2020.07.11-20.17.33:457][837]LogBlueprintUserMessages: [FireBP_C_61] Fire Extinguished
+[2020.07.11-20.17.33:457][837]LogBlueprintUserMessages: [FireBP_C_62] Fire Extinguished
+[2020.07.11-20.17.33:457][837]LogBlueprintUserMessages: [FireBP_C_64] Fire Extinguished
+[2020.07.11-20.17.33:457][837]LogBlueprintUserMessages: [FireBP_C_65] Fire Extinguished
+[2020.07.11-20.17.33:744][861]LogBlueprintUserMessages: [FireBP_C_86] Fire Spawned
+[2020.07.11-20.17.33:744][861]LogBlueprintUserMessages: [FireBP_C_87] Fire Spawned
+[2020.07.11-20.17.33:872][868]LogBlueprintUserMessages: [FireBP_C_6] Fire Extinguished
+[2020.07.11-20.17.33:872][868]LogBlueprintUserMessages: [FireBP_C_69] Fire Extinguished
+[2020.07.11-20.17.34:748][942]LogBlueprintUserMessages: [FireBP_C_88] Fire Spawned
+[2020.07.11-20.17.35:750][ 32]LogBlueprintUserMessages: [FireBP_C_89] Fire Spawned
+[2020.07.11-20.17.36:757][124]LogBlueprintUserMessages: [FireBP_C_90] Fire Spawned
+[2020.07.11-20.17.38:773][311]LogBlueprintUserMessages: [FireBP_C_91] Fire Spawned
+[2020.07.11-20.17.39:782][408]LogBlueprintUserMessages: [FireBP_C_92] Fire Spawned
+[2020.07.11-20.17.41:795][591]LogBlueprintUserMessages: [FireBP_C_93] Fire Spawned
+[2020.07.11-20.17.42:799][683]LogBlueprintUserMessages: [FireBP_C_94] Fire Spawned
+[2020.07.11-20.17.42:799][683]LogBlueprintUserMessages: [FireBP_C_95] Fire Spawned
+[2020.07.11-20.17.44:125][805]LogBlueprintUserMessages: [FireBP_C_90] Fire Extinguished
+[2020.07.11-20.17.44:603][850]LogBlueprintUserMessages: [FireBP_C_92] Fire Extinguished
+[2020.07.11-20.17.44:688][858]LogBlueprintUserMessages: [FireBP_C_85] Fire Extinguished
+[2020.07.11-20.17.44:802][868]LogBlueprintUserMessages: [FireBP_C_86] Fire Extinguished
+[2020.07.11-20.17.44:814][869]LogBlueprintUserMessages: [FireBP_C_96] Fire Spawned
+[2020.07.11-20.17.45:136][899]LogBlueprintUserMessages: [FireBP_C_88] Fire Extinguished
+[2020.07.11-20.17.45:136][899]LogBlueprintUserMessages: [FireBP_C_81] Fire Extinguished
+[2020.07.11-20.17.45:818][964]LogBlueprintUserMessages: [FireBP_C_97] Fire Spawned
+[2020.07.11-20.17.45:818][964]LogBlueprintUserMessages: [FireBP_C_98] Fire Spawned
+[2020.07.11-20.17.46:824][ 59]LogBlueprintUserMessages: [FireBP_C_99] Fire Spawned
+[2020.07.11-20.17.48:827][247]LogBlueprintUserMessages: [FireBP_C_100] Fire Spawned
+[2020.07.11-20.17.48:828][247]LogBlueprintUserMessages: [FireBP_C_101] Fire Spawned
+[2020.07.11-20.17.49:829][317]LogBlueprintUserMessages: [FireBP_C_102] Fire Spawned
+[2020.07.11-20.17.50:836][408]LogBlueprintUserMessages: [FireBP_C_103] Fire Spawned
+[2020.07.11-20.17.51:846][502]LogBlueprintUserMessages: [FireBP_C_104] Fire Spawned
+[2020.07.11-20.17.54:854][782]LogBlueprintUserMessages: [FireBP_C_105] Fire Spawned
+[2020.07.11-20.17.55:855][871]LogBlueprintUserMessages: [FireBP_C_106] Fire Spawned
+[2020.07.11-20.17.55:856][871]LogBlueprintUserMessages: [FireBP_C_107] Fire Spawned
+[2020.07.11-20.17.56:858][963]LogBlueprintUserMessages: [FireBP_C_108] Fire Spawned
+[2020.07.11-20.17.56:859][963]LogBlueprintUserMessages: [FireBP_C_109] Fire Spawned
+[2020.07.11-20.17.57:864][ 58]LogBlueprintUserMessages: [FireBP_C_110] Fire Spawned
+[2020.07.11-20.17.58:874][151]LogBlueprintUserMessages: [FireBP_C_111] Fire Spawned
+[2020.07.11-20.17.58:875][151]LogBlueprintUserMessages: [FireBP_C_112] Fire Spawned
+[2020.07.11-20.17.59:878][247]LogBlueprintUserMessages: [FireBP_C_113] Fire Spawned
+[2020.07.11-20.18.00:883][342]LogBlueprintUserMessages: [FireBP_C_114] Fire Spawned
+[2020.07.11-20.18.01:882][434]LogBlueprintUserMessages: [FireBP_C_115] Fire Spawned
+[2020.07.11-20.18.01:882][434]LogBlueprintUserMessages: [FireBP_C_116] Fire Spawned
+[2020.07.11-20.18.03:896][616]LogBlueprintUserMessages: [FireBP_C_117] Fire Spawned
+[2020.07.11-20.18.04:900][714]LogBlueprintUserMessages: [FireBP_C_118] Fire Spawned
+[2020.07.11-20.18.06:906][892]LogBlueprintUserMessages: [FireBP_C_119] Fire Spawned
+[2020.07.11-20.18.06:907][892]LogBlueprintUserMessages: [FireBP_C_120] Fire Spawned
+[2020.07.11-20.18.07:916][978]LogBlueprintUserMessages: [FireBP_C_121] Fire Spawned
+[2020.07.11-20.18.07:917][978]LogBlueprintUserMessages: [FireBP_C_122] Fire Spawned
+[2020.07.11-20.18.08:912][ 73]LogBlueprintUserMessages: [FireBP_C_123] Fire Spawned
+[2020.07.11-20.18.09:913][170]LogBlueprintUserMessages: [FireBP_C_124] Fire Spawned
+[2020.07.11-20.18.09:913][170]LogBlueprintUserMessages: [FireBP_C_125] Fire Spawned
+[2020.07.11-20.18.10:921][266]LogBlueprintUserMessages: [FireBP_C_126] Fire Spawned
+[2020.07.11-20.18.11:926][361]LogBlueprintUserMessages: [FireBP_C_127] Fire Spawned
+[2020.07.11-20.18.11:926][361]LogBlueprintUserMessages: [FireBP_C_128] Fire Spawned
+[2020.07.11-20.18.13:936][559]LogBlueprintUserMessages: [FireBP_C_129] Fire Spawned
+[2020.07.11-20.18.13:937][559]LogBlueprintUserMessages: [FireBP_C_130] Fire Spawned
+[2020.07.11-20.18.14:937][657]LogBlueprintUserMessages: [FireBP_C_131] Fire Spawned
+[2020.07.11-20.18.14:938][657]LogBlueprintUserMessages: [FireBP_C_132] Fire Spawned
+[2020.07.11-20.18.15:940][750]LogBlueprintUserMessages: [FireBP_C_133] Fire Spawned
+[2020.07.11-20.18.15:941][750]LogBlueprintUserMessages: [FireBP_C_134] Fire Spawned
+[2020.07.11-20.18.16:949][846]LogBlueprintUserMessages: [FireBP_C_135] Fire Spawned
+[2020.07.11-20.18.17:956][941]LogBlueprintUserMessages: [FireBP_C_136] Fire Spawned
+[2020.07.11-20.18.17:957][941]LogBlueprintUserMessages: [FireBP_C_137] Fire Spawned
+[2020.07.11-20.18.18:959][ 37]LogBlueprintUserMessages: [FireBP_C_138] Fire Spawned
+[2020.07.11-20.18.21:973][293]LogBlueprintUserMessages: [FireBP_C_139] Fire Spawned
+[2020.07.11-20.18.21:973][293]LogBlueprintUserMessages: [FireBP_C_140] Fire Spawned
+[2020.07.11-20.18.22:977][386]LogBlueprintUserMessages: [FireBP_C_141] Fire Spawned
+[2020.07.11-20.18.23:984][482]LogBlueprintUserMessages: [FireBP_C_142] Fire Spawned
+[2020.07.11-20.18.23:985][482]LogBlueprintUserMessages: [FireBP_C_143] Fire Spawned
+[2020.07.11-20.18.27:009][768]LogBlueprintUserMessages: [FireBP_C_144] Fire Spawned
+[2020.07.11-20.18.27:010][768]LogBlueprintUserMessages: [FireBP_C_145] Fire Spawned
+[2020.07.11-20.18.28:011][861]LogBlueprintUserMessages: [FireBP_C_146] Fire Spawned
+[2020.07.11-20.18.30:014][ 49]LogBlueprintUserMessages: [FireBP_C_147] Fire Spawned
+[2020.07.11-20.18.30:015][ 49]LogBlueprintUserMessages: [FireBP_C_148] Fire Spawned
+[2020.07.11-20.18.31:016][143]LogBlueprintUserMessages: [FireBP_C_149] Fire Spawned
+[2020.07.11-20.18.32:021][236]LogBlueprintUserMessages: [FireBP_C_150] Fire Spawned
+[2020.07.11-20.18.32:022][236]LogBlueprintUserMessages: [FireBP_C_151] Fire Spawned
+[2020.07.11-20.18.33:028][332]LogBlueprintUserMessages: [FireBP_C_152] Fire Spawned
+[2020.07.11-20.18.33:028][332]LogBlueprintUserMessages: [FireBP_C_153] Fire Spawned
+[2020.07.11-20.18.34:032][427]LogBlueprintUserMessages: [FireBP_C_154] Fire Spawned
+[2020.07.11-20.18.35:035][520]LogBlueprintUserMessages: [FireBP_C_155] Fire Spawned
+[2020.07.11-20.18.36:035][611]LogBlueprintUserMessages: [FireBP_C_156] Fire Spawned
+[2020.07.11-20.18.36:035][611]LogBlueprintUserMessages: [FireBP_C_157] Fire Spawned
+[2020.07.11-20.18.37:036][707]LogBlueprintUserMessages: [FireBP_C_158] Fire Spawned
+[2020.07.11-20.18.39:048][896]LogBlueprintUserMessages: [FireBP_C_159] Fire Spawned
+[2020.07.11-20.18.40:048][989]LogBlueprintUserMessages: [FireBP_C_160] Fire Spawned
+[2020.07.11-20.18.41:049][ 83]LogBlueprintUserMessages: [FireBP_C_161] Fire Spawned
+[2020.07.11-20.18.41:050][ 83]LogBlueprintUserMessages: [FireBP_C_162] Fire Spawned
+[2020.07.11-20.18.42:049][174]LogBlueprintUserMessages: [FireBP_C_163] Fire Spawned
+[2020.07.11-20.18.42:049][174]LogBlueprintUserMessages: [FireBP_C_164] Fire Spawned
+[2020.07.11-20.18.43:053][270]LogBlueprintUserMessages: [FireBP_C_165] Fire Spawned
+[2020.07.11-20.18.44:057][361]LogBlueprintUserMessages: [FireBP_C_166] Fire Spawned
+[2020.07.11-20.18.45:063][459]LogBlueprintUserMessages: [FireBP_C_167] Fire Spawned
+[2020.07.11-20.18.46:068][555]LogBlueprintUserMessages: [FireBP_C_168] Fire Spawned
+[2020.07.11-20.18.46:069][555]LogBlueprintUserMessages: [FireBP_C_169] Fire Spawned
+[2020.07.11-20.18.49:084][834]LogBlueprintUserMessages: [FireBP_C_170] Fire Spawned
+[2020.07.11-20.18.49:084][834]LogBlueprintUserMessages: [FireBP_C_171] Fire Spawned
+[2020.07.11-20.18.50:690][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.18.50:691][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-20.18.50:691][980]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map
+[2020.07.11-20.18.50:691][980]LogWorld: UWorld::CleanupWorld for Base-map, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.18.50:748][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-20.18.50:748][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.18.50:804][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-20.18.50:814][980]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2020.07.11-20.18.50:838][981]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.07.11-20.18.54:994][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.11-20.19.20:814][843]BlueprintLog: New page: Compile ReactorIntegrityBar
+[2020.07.11-20.19.20:869][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.07.11-20.19.21:402][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ReactorIntegrityBar" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/ReactorIntegrityBar.uasset" SILENT=true
+[2020.07.11-20.19.21:443][876]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/ReactorIntegrityBar8E68F5A540F9E85BA838C4A11077CE7D.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/ReactorIntegrityBar.uasset'
+[2020.07.11-20.19.39:418][ 29]BlueprintLog: New page: Compile ReactorHub
+[2020.07.11-20.19.39:673][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.07.11-20.19.40:013][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ReactorHub" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/ReactorHub.uasset" SILENT=true
+[2020.07.11-20.19.40:091][ 49]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/ReactorHubDCC1D17849A5CE30058BAEBC129BD303.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/ReactorHub.uasset'
+[2020.07.11-20.19.41:673][176]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-20.19.41:703][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.19.41:704][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-20.19.41:704][176]PIE: New page: PIE session: Base-map (11 Jul 2020 22:19:41)
+[2020.07.11-20.19.41:704][176]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map
+[2020.07.11-20.19.41:729][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025013s)
+[2020.07.11-20.19.41:730][176]LogAIModule: Creating AISystem for world Base-map
+[2020.07.11-20.19.41:730][176]LogPlayLevel: PIE: World Init took: (0.001315s)
+[2020.07.11-20.19.41:730][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Base-map.Base-map to /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map.Base-map (0.026493s)
+[2020.07.11-20.19.41:779][176]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.07.11-20.19.41:792][176]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.11-20.19.41:835][176]LogInit: FAudioDevice initialized.
+[2020.07.11-20.19.41:846][176]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-20.19.41:855][176]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map.Base-map up for play (max tick rate 0) at 2020.07.11-21.19.41
+[2020.07.11-20.19.41:857][176]LogWorld: Bringing up level for play took: 0.010234
+[2020.07.11-20.19.41:857][176]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.07.11-20.19.41:863][176]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map 0.154
+[2020.07.11-20.19.41:863][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.19.57:743][721]LogBlueprintUserMessages: [FireBP_C_0] Fire Spawned
+[2020.07.11-20.19.58:745][816]LogBlueprintUserMessages: [FireBP_C_1] Fire Spawned
+[2020.07.11-20.20.01:762][117]LogBlueprintUserMessages: [FireBP_C_2] Fire Spawned
+[2020.07.11-20.20.02:773][215]LogBlueprintUserMessages: [FireBP_C_3] Fire Spawned
+[2020.07.11-20.20.03:782][314]LogBlueprintUserMessages: [FireBP_C_4] Fire Spawned
+[2020.07.11-20.20.05:788][514]LogBlueprintUserMessages: [FireBP_C_5] Fire Spawned
+[2020.07.11-20.20.06:791][615]LogBlueprintUserMessages: [FireBP_C_6] Fire Spawned
+[2020.07.11-20.20.07:800][718]LogBlueprintUserMessages: [FireBP_C_7] Fire Spawned
+[2020.07.11-20.20.08:804][813]LogBlueprintUserMessages: [FireBP_C_8] Fire Spawned
+[2020.07.11-20.20.09:805][914]LogBlueprintUserMessages: [FireBP_C_9] Fire Spawned
+[2020.07.11-20.20.12:818][216]LogBlueprintUserMessages: [FireBP_C_10] Fire Spawned
+[2020.07.11-20.20.13:823][317]LogBlueprintUserMessages: [FireBP_C_11] Fire Spawned
+[2020.07.11-20.20.14:833][413]LogBlueprintUserMessages: [FireBP_C_12] Fire Spawned
+[2020.07.11-20.20.15:834][508]LogBlueprintUserMessages: [FireBP_C_13] Fire Spawned
+[2020.07.11-20.20.16:839][602]LogBlueprintUserMessages: [FireBP_C_14] Fire Spawned
+[2020.07.11-20.20.16:839][602]LogBlueprintUserMessages: [FireBP_C_15] Fire Spawned
+[2020.07.11-20.20.17:853][703]LogBlueprintUserMessages: [FireBP_C_16] Fire Spawned
+[2020.07.11-20.20.18:857][803]LogBlueprintUserMessages: [FireBP_C_17] Fire Spawned
+[2020.07.11-20.20.19:862][892]LogBlueprintUserMessages: [FireBP_C_18] Fire Spawned
+[2020.07.11-20.20.21:871][ 73]LogBlueprintUserMessages: [FireBP_C_19] Fire Spawned
+[2020.07.11-20.20.23:883][262]LogBlueprintUserMessages: [FireBP_C_20] Fire Spawned
+[2020.07.11-20.20.23:884][262]LogBlueprintUserMessages: [FireBP_C_21] Fire Spawned
+[2020.07.11-20.20.24:891][359]LogBlueprintUserMessages: [FireBP_C_22] Fire Spawned
+[2020.07.11-20.20.26:905][553]LogBlueprintUserMessages: [FireBP_C_23] Fire Spawned
+[2020.07.11-20.20.27:909][636]LogBlueprintUserMessages: [FireBP_C_24] Fire Spawned
+[2020.07.11-20.20.29:918][823]LogBlueprintUserMessages: [FireBP_C_25] Fire Spawned
+[2020.07.11-20.20.35:838][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.20.35:838][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-20.20.35:839][337]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map
+[2020.07.11-20.20.35:839][337]LogWorld: UWorld::CleanupWorld for Base-map, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.20.35:859][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-20.20.35:859][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.20.35:922][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-20.20.35:927][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.07.11-20.20.35:956][338]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.07.11-20.20.39:466][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.11-20.20.39:523][633]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-20.20.39:552][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.20.39:552][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-20.20.39:552][633]PIE: New page: PIE session: Base-map (11 Jul 2020 22:20:39)
+[2020.07.11-20.20.39:552][633]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map
+[2020.07.11-20.20.39:575][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022668s)
+[2020.07.11-20.20.39:576][633]LogAIModule: Creating AISystem for world Base-map
+[2020.07.11-20.20.39:593][633]LogPlayLevel: PIE: World Init took: (0.018483s)
+[2020.07.11-20.20.39:593][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Base-map.Base-map to /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map.Base-map (0.041355s)
+[2020.07.11-20.20.39:642][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.07.11-20.20.39:658][633]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.11-20.20.39:706][633]LogInit: FAudioDevice initialized.
+[2020.07.11-20.20.39:719][633]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-20.20.39:730][633]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map.Base-map up for play (max tick rate 0) at 2020.07.11-21.20.39
+[2020.07.11-20.20.39:733][633]LogWorld: Bringing up level for play took: 0.012844
+[2020.07.11-20.20.39:733][633]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.07.11-20.20.39:738][633]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map 0.029
+[2020.07.11-20.20.39:738][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.20.52:324][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.20.52:324][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-20.20.52:324][774]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map
+[2020.07.11-20.20.52:325][774]LogWorld: UWorld::CleanupWorld for Base-map, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.20.52:342][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-20.20.52:342][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.20.52:394][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-20.20.52:406][774]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2020.07.11-20.20.52:428][775]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.07.11-20.20.54:437][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.11-20.20.54:502][939]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.11-20.20.54:536][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.20.54:536][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-20.20.54:536][939]PIE: New page: PIE session: Base-map (11 Jul 2020 22:20:54)
+[2020.07.11-20.20.54:536][939]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map
+[2020.07.11-20.20.54:558][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021215s)
+[2020.07.11-20.20.54:559][939]LogAIModule: Creating AISystem for world Base-map
+[2020.07.11-20.20.54:560][939]LogPlayLevel: PIE: World Init took: (0.001986s)
+[2020.07.11-20.20.54:560][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Base-map.Base-map to /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map.Base-map (0.023451s)
+[2020.07.11-20.20.54:608][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.07.11-20.20.54:624][939]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.11-20.20.54:662][939]LogInit: FAudioDevice initialized.
+[2020.07.11-20.20.54:675][939]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-20.20.54:684][939]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map.Base-map up for play (max tick rate 0) at 2020.07.11-21.20.54
+[2020.07.11-20.20.54:686][939]LogWorld: Bringing up level for play took: 0.010623
+[2020.07.11-20.20.54:687][939]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.07.11-20.20.54:690][939]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map 0.982
+[2020.07.11-20.20.54:691][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.21.02:755][665]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.21.02:756][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-20.21.02:756][665]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Base-map
+[2020.07.11-20.21.02:756][665]LogWorld: UWorld::CleanupWorld for Base-map, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.21.02:776][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-20.21.02:776][665]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map' with GeneratedClass '/Game/FirstPersonBP/Maps/Base-map.Base-map_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Base-map.Base-map:PersistentLevel.Base-map'
+[2020.07.11-20.21.02:828][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-20.21.02:833][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.07.11-20.21.02:860][667]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.07.11-20.21.11:790][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.11-20.21.16:607][744]BlueprintLog: New page: Compile ReactorHub
+[2020.07.11-20.21.16:866][744]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.07.11-20.21.17:224][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ReactorHub" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/ReactorHub.uasset" SILENT=true
+[2020.07.11-20.21.17:272][766]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/ReactorHub5771FB5B4EF95C558FF9AD8CAFAE5C5D.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/ReactorHub.uasset'
+[2020.07.11-20.21.48:626][324]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.07.11-20.21.48:940][324]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Base-map_Auto1DE2B5A634A44B2C66FF3108EF1C12360.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Autosaves/Game/FirstPersonBP/Maps/Base-map_Auto1.umap'
+[2020.07.11-20.21.48:970][324]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Base-map' took 0.398
+[2020.07.11-20.21.48:971][324]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.398
+[2020.07.11-20.21.48:973][324]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.07.11-20.21.49:028][324]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.07.11-20.21.49:028][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.07.11-20.21.49:212][324]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonCharacter_Auto1FBA278ED4DF001CE9415F0BDA7A63E11.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2020.07.11-20.21.49:234][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/GameOver] ([1] browsable assets)...
+[2020.07.11-20.21.49:234][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/GameOver]
+[2020.07.11-20.21.49:263][324]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/GameOver_Auto112F8AFAD417C68AB8AF8EDBA79862F2C.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Autosaves/Game/FirstPersonBP/Blueprints/GameOver_Auto1.uasset'
+[2020.07.11-20.21.49:266][324]LogFileHelpers: Auto-saving content packages took 0.294
+[2020.07.11-20.31.35:411][320]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.31.42:119][829]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.31.42:133][829]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.31.43:705][915]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.07.11-20.31.44:015][915]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.07.11-20.31.44:531][931]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/FirstPersonCharacter69AB72E14BDD821181CA62B82BB97141.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.07.11-20.31.48:821][206]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.11-20.31.48:821][206]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.31.49:963][280]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2020.07.11-20.31.49:969][280]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.11-20.31.49:969][280]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-20.31.51:029][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.07.11-20.32.29:124][482]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.07.11-20.32.29:520][482]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Base-map_Auto25A5843C644D028F9982EB7A9A388AC0A.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Autosaves/Game/FirstPersonBP/Maps/Base-map_Auto2.umap'
+[2020.07.11-20.32.29:527][482]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Base-map' took 0.463
+[2020.07.11-20.32.29:528][482]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.463
+[2020.07.11-21.18.14:084][636]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.11-21.18.15:459][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.07.11-21.18.20:580][753]LogSlate: Window 'Save Content' being destroyed
+[2020.07.11-21.18.20:599][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/GameOver" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/GameOver.uasset" SILENT=true
+[2020.07.11-21.18.20:681][753]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/GameOver8FB5863F4A8A4974609C40A95958BC78.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Blueprints/GameOver.uasset'
+[2020.07.11-21.18.20:693][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Base-map" FILE="D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Maps/Base-map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.11-21.18.20:725][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.07.11-21.18.21:063][753]LogSavePackage: Moving 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Saved/Base-mapA05E1C4F4E540F939F3702B138DE9558.tmp' to 'D:/Projects/Game/GMTK-Jam-2020/FireManThing/Content/FirstPersonBP/Maps/Base-map.umap'
+[2020.07.11-21.18.21:101][753]LogFileHelpers: Saving map 'Base-map' took 0.409
+[2020.07.11-21.18.21:320][753]LogSlate: Window 'FireManThing - Unreal Editor' being destroyed
+[2020.07.11-21.18.21:322][753]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.11-21.18.21:538][754]Cmd: QUIT_EDITOR
+[2020.07.11-21.18.22:218][754]LogExit: Preparing to exit.
+[2020.07.11-21.18.23:234][754]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-21.18.23:240][754]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-21.18.23:245][754]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-21.18.23:250][754]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-21.18.23:256][754]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-21.18.23:263][754]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-21.18.23:268][754]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-21.18.23:273][754]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-21.18.23:585][754]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.07.11-21.18.23:753][754]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-21.18.23:753][754]LogExit: Editor shut down
+[2020.07.11-21.18.23:753][754]LogExit: Transaction tracking system shut down
+[2020.07.11-21.18.26:095][754]LogExit: Object subsystem successfully closed.
+[2020.07.11-21.18.26:307][754]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.07.11-21.18.27:843][754]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2020.07.11-21.18.27:843][754]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2020.07.11-21.18.27:859][754]LogModuleManager: Shutting down and abandoning module SequencerWidgets (672)
+[2020.07.11-21.18.27:859][754]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2020.07.11-21.18.27:859][754]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2020.07.11-21.18.27:859][754]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2020.07.11-21.18.27:859][754]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2020.07.11-21.18.27:876][754]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2020.07.11-21.18.27:876][754]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2020.07.11-21.18.27:876][754]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2020.07.11-21.18.27:886][754]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.07.11-21.18.27:899][754]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.07.11-21.18.27:899][754]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.07.11-21.18.27:918][754]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.07.11-21.18.27:962][754]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.07.11-21.18.27:962][754]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.07.11-21.18.27:962][754]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.07.11-21.18.27:963][754]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.07.11-21.18.27:978][754]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.07.11-21.18.27:978][754]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.07.11-21.18.27:978][754]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.07.11-21.18.27:991][754]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.07.11-21.18.28:001][754]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.07.11-21.18.28:001][754]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.07.11-21.18.28:001][754]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.07.11-21.18.28:014][754]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.07.11-21.18.28:039][754]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.07.11-21.18.28:079][754]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.07.11-21.18.28:079][754]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.07.11-21.18.28:095][754]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.07.11-21.18.28:114][754]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.07.11-21.18.28:114][754]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.07.11-21.18.28:114][754]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.07.11-21.18.28:114][754]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.07.11-21.18.28:114][754]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.07.11-21.18.28:135][754]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.07.11-21.18.28:161][754]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.07.11-21.18.28:191][754]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.07.11-21.18.28:191][754]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.07.11-21.18.28:191][754]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.07.11-21.18.28:191][754]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.07.11-21.18.28:192][754]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.07.11-21.18.28:192][754]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.07.11-21.18.28:192][754]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.07.11-21.18.28:192][754]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.07.11-21.18.28:192][754]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.07.11-21.18.28:192][754]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.07.11-21.18.28:192][754]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.07.11-21.18.28:192][754]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.07.11-21.18.28:192][754]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.07.11-21.18.28:192][754]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.07.11-21.18.28:192][754]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.07.11-21.18.28:192][754]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.07.11-21.18.28:212][754]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.07.11-21.18.28:212][754]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.07.11-21.18.28:212][754]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.07.11-21.18.28:236][754]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.07.11-21.18.28:252][754]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.07.11-21.18.28:274][754]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.07.11-21.18.28:274][754]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.07.11-21.18.28:290][754]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.07.11-21.18.28:290][754]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.07.11-21.18.28:307][754]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.07.11-21.18.28:308][754]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.07.11-21.18.28:308][754]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.07.11-21.18.28:544][754]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.07.11-21.18.28:544][754]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.07.11-21.18.28:545][754]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.07.11-21.18.28:545][754]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.07.11-21.18.28:545][754]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.07.11-21.18.28:545][754]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.07.11-21.18.28:560][754]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.07.11-21.18.28:579][754]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.07.11-21.18.28:589][754]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.07.11-21.18.28:597][754]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.07.11-21.18.28:597][754]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.07.11-21.18.28:613][754]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.07.11-21.18.28:627][754]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.07.11-21.18.28:641][754]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.07.11-21.18.28:641][754]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.07.11-21.18.28:641][754]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.07.11-21.18.28:641][754]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.07.11-21.18.28:642][754]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.07.11-21.18.28:648][754]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.07.11-21.18.28:669][754]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.07.11-21.18.28:690][754]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.07.11-21.18.28:699][754]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.07.11-21.18.28:719][754]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.07.11-21.18.28:778][754]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.07.11-21.18.28:819][754]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.07.11-21.18.28:838][754]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.07.11-21.18.28:874][754]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.07.11-21.18.28:874][754]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.07.11-21.18.28:874][754]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.07.11-21.18.28:875][754]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.07.11-21.18.28:903][754]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.07.11-21.18.28:926][754]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.07.11-21.18.28:926][754]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.07.11-21.18.28:926][754]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.07.11-21.18.28:953][754]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.07.11-21.18.28:954][754]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.07.11-21.18.28:954][754]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.07.11-21.18.28:954][754]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.07.11-21.18.28:959][754]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.07.11-21.18.28:959][754]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.07.11-21.18.28:976][754]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.07.11-21.18.29:017][754]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.07.11-21.18.29:027][754]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.07.11-21.18.29:038][754]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.07.11-21.18.29:038][754]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.07.11-21.18.29:056][754]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.07.11-21.18.29:056][754]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.07.11-21.18.29:056][754]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.07.11-21.18.29:056][754]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.07.11-21.18.29:063][754]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.07.11-21.18.29:063][754]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.07.11-21.18.29:063][754]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.07.11-21.18.29:063][754]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.07.11-21.18.29:063][754]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.07.11-21.18.29:063][754]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.07.11-21.18.29:076][754]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.07.11-21.18.29:076][754]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.07.11-21.18.29:077][754]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.07.11-21.18.29:077][754]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.07.11-21.18.29:088][754]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.07.11-21.18.29:098][754]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.07.11-21.18.29:217][754]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.07.11-21.18.29:241][754]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.07.11-21.18.29:242][754]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.07.11-21.18.29:242][754]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.07.11-21.18.29:242][754]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.07.11-21.18.29:254][754]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.07.11-21.18.29:255][754]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.07.11-21.18.29:255][754]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.07.11-21.18.29:255][754]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.07.11-21.18.29:266][754]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.07.11-21.18.29:266][754]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.07.11-21.18.29:266][754]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.07.11-21.18.29:266][754]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.07.11-21.18.29:266][754]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.07.11-21.18.29:266][754]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.07.11-21.18.29:267][754]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.07.11-21.18.29:267][754]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.07.11-21.18.29:286][754]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.07.11-21.18.29:300][754]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.07.11-21.18.29:300][754]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.07.11-21.18.29:315][754]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.07.11-21.18.29:315][754]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.07.11-21.18.29:315][754]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.07.11-21.18.29:329][754]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.07.11-21.18.29:329][754]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.07.11-21.18.29:329][754]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.07.11-21.18.29:329][754]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.07.11-21.18.29:340][754]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.07.11-21.18.29:340][754]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.07.11-21.18.29:341][754]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.07.11-21.18.29:346][754]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.07.11-21.18.29:346][754]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.07.11-21.18.29:346][754]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.07.11-21.18.29:346][754]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.07.11-21.18.29:346][754]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.07.11-21.18.29:346][754]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.07.11-21.18.29:346][754]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.07.11-21.18.29:373][754]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.07.11-21.18.29:384][754]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.07.11-21.18.29:394][754]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.07.11-21.18.29:394][754]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.07.11-21.18.29:394][754]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.07.11-21.18.29:394][754]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.07.11-21.18.29:394][754]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.07.11-21.18.29:411][754]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.07.11-21.18.29:411][754]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.07.11-21.18.29:411][754]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.07.11-21.18.29:419][754]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.07.11-21.18.29:442][754]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.07.11-21.18.29:455][754]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.07.11-21.18.29:455][754]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.07.11-21.18.29:455][754]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.07.11-21.18.29:455][754]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.07.11-21.18.29:455][754]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.07.11-21.18.29:455][754]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.07.11-21.18.29:455][754]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.07.11-21.18.29:455][754]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.07.11-21.18.29:456][754]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.07.11-21.18.29:482][754]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.07.11-21.18.29:482][754]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.07.11-21.18.29:482][754]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.07.11-21.18.29:482][754]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.07.11-21.18.29:482][754]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.07.11-21.18.29:482][754]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.07.11-21.18.29:583][754]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.07.11-21.18.29:694][754]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.07.11-21.18.29:694][754]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.07.11-21.18.29:694][754]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.07.11-21.18.29:701][754]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.07.11-21.18.29:701][754]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.07.11-21.18.29:702][754]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.07.11-21.18.29:702][754]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.07.11-21.18.29:702][754]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.07.11-21.18.29:702][754]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.07.11-21.18.29:714][754]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.07.11-21.18.29:714][754]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.07.11-21.18.29:715][754]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.07.11-21.18.29:715][754]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.07.11-21.18.29:732][754]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.07.11-21.18.29:759][754]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.07.11-21.18.29:784][754]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.07.11-21.18.29:784][754]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.07.11-21.18.29:784][754]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.07.11-21.18.29:803][754]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.07.11-21.18.29:804][754]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.07.11-21.18.29:808][754]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.07.11-21.18.29:808][754]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.07.11-21.18.29:808][754]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.07.11-21.18.29:825][754]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.07.11-21.18.29:838][754]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.07.11-21.18.29:845][754]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.07.11-21.18.29:845][754]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.07.11-21.18.29:845][754]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.07.11-21.18.29:845][754]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.07.11-21.18.29:873][754]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.07.11-21.18.29:873][754]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.07.11-21.18.29:873][754]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.07.11-21.18.29:873][754]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.07.11-21.18.29:895][754]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.07.11-21.18.29:917][754]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.07.11-21.18.29:918][754]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.07.11-21.18.29:952][754]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.07.11-21.18.29:970][754]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.07.11-21.18.29:985][754]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.07.11-21.18.30:000][754]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.07.11-21.18.30:000][754]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.07.11-21.18.30:000][754]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.07.11-21.18.30:014][754]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.07.11-21.18.30:014][754]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.07.11-21.18.30:068][754]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.07.11-21.18.30:069][754]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.07.11-21.18.30:069][754]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.07.11-21.18.30:072][754]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.07.11-21.18.30:072][754]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.07.11-21.18.30:072][754]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.07.11-21.18.30:072][754]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.07.11-21.18.30:073][754]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.07.11-21.18.30:073][754]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.07.11-21.18.30:073][754]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.07.11-21.18.30:073][754]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.07.11-21.18.30:073][754]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.07.11-21.18.30:073][754]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.07.11-21.18.30:085][754]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.07.11-21.18.30:085][754]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.07.11-21.18.30:113][754]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.07.11-21.18.30:141][754]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.07.11-21.18.30:154][754]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.07.11-21.18.30:169][754]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.07.11-21.18.30:169][754]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.07.11-21.18.30:169][754]LogDerivedDataCache: Shutdown
+[2020.07.11-21.18.30:175][754]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.07.11-21.18.30:175][754]LogXGEController: Cleaning working directory: C:/Users/User.USER-PC/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.07.11-21.18.30:184][754]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.07.11-21.18.30:191][754]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.07.11-21.18.30:204][754]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.07.11-21.18.30:224][754]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.07.11-21.18.30:235][754]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.07.11-21.18.30:246][754]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.07.11-21.18.30:272][754]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.07.11-21.18.30:272][754]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.07.11-21.18.30:272][754]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.07.11-21.18.30:291][754]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.07.11-21.18.30:304][754]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.07.11-21.18.30:304][754]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.07.11-21.18.30:304][754]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.07.11-21.18.30:304][754]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.07.11-21.18.30:317][754]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.07.11-21.18.30:317][754]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.07.11-21.18.30:317][754]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.07.11-21.18.30:321][754]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.07.11-21.18.30:321][754]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.07.11-21.18.30:327][754]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.07.11-21.18.30:337][754]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.07.11-21.18.30:345][754]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.07.11-21.18.30:347][754]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.07.11-21.18.30:347][754]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.07.11-21.18.30:349][754]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.07.11-21.18.30:349][754]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.07.11-21.18.30:364][754]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.07.11-21.18.30:364][754]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.07.11-21.18.30:364][754]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.07.11-21.18.30:364][754]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.07.11-21.18.30:364][754]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.07.11-21.18.30:364][754]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.07.11-21.18.30:364][754]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.07.11-21.18.30:364][754]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.07.11-21.18.30:364][754]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.07.11-21.18.30:364][754]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.07.11-21.18.30:364][754]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.07.11-21.18.30:364][754]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.07.11-21.18.30:365][754]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.07.11-21.18.30:365][754]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.07.11-21.18.30:365][754]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.07.11-21.18.30:377][754]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.07.11-21.18.30:385][754]LogHMD: Freeing OpenVRDLLHandle.
+[2020.07.11-21.18.30:385][754]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.07.11-21.18.30:396][754]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.07.11-21.18.30:396][754]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.07.11-21.18.30:396][754]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.07.11-21.18.30:396][754]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.07.11-21.18.30:411][754]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.07.11-21.18.30:426][754]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.07.11-21.18.30:468][754]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.07.11-21.18.30:468][754]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.07.11-21.18.30:468][754]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBDF3D8B3-4C7E-215B-BFA2-68B88E0554E4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=2638ef3b4ae0c254550e108b7d3d33d5%7Cc1fc9a308cd348edbb461f40440463b3%7C9a908326-858a-464e-9c0a-cbb2c9b40c7e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.07.11-21.18.30:482][754]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.07.11-21.18.30:485][754]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.07.11-21.18.30:504][754]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.07.11-21.18.30:505][754]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.07.11-21.18.30:511][754]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.07.11-21.18.30:512][754]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.07.11-21.18.30:512][754]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.07.11-21.18.30:529][754]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.07.11-21.18.30:529][754]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.07.11-21.18.30:542][754]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.07.11-21.18.30:544][754]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.07.11-21.18.30:560][754]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.07.11-21.18.30:578][754]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.07.11-21.18.30:578][754]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.07.11-21.18.30:578][754]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.07.11-21.18.30:605][754]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.07.11-21.18.30:629][754]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.07.11-21.18.30:629][754]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.07.11-21.18.30:636][754]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.07.11-21.18.30:636][754]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.07.11-21.18.30:644][754]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.07.11-21.18.30:644][754]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.07.11-21.18.30:656][754]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.07.11-21.18.30:656][754]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.07.11-21.18.30:660][754]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.07.11-21.18.30:660][754]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.07.11-21.18.30:677][754]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.07.11-21.18.30:691][754]LogD3D11RHI: Shutdown
+[2020.07.11-21.18.30:699][754]LogD3D11RHI: CleanupD3DDevice
+[2020.07.11-21.18.30:769][754]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.07.11-21.18.30:774][754]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.07.11-21.18.30:774][754]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.07.11-21.18.30:776][754]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.07.11-21.18.30:821][754]LogExit: Exiting.
+[2020.07.11-21.18.30:961][754]Log file closed, 07/11/20 22:18:30
